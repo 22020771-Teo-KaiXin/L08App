@@ -1,7 +1,7 @@
 {
   "expo": {
-    "name": "L08App",
-    "slug": "L08App",
+    "name": "L8Demo",
+    "slug": "L8Demo",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
